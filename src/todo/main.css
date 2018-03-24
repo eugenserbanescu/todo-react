@@ -1,0 +1,12 @@
+.todo-list {
+  padding: 0;
+}
+.app-part {
+  background: white;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 20px;
+  width: 610px;
+}

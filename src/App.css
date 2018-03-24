@@ -1,0 +1,18 @@
+body {
+  background: #fafafa;
+}
+.app {
+  background: white;
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  height: 100vh;
+  margin: auto;
+  overflow: auto;
+  padding-top: 20px;
+  width: 610px;
+}
+
+.title {
+  margin: auto;
+  text-align: center;
+}
